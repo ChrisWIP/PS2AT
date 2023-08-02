@@ -7,7 +7,7 @@ Next solder on a standard PS/2 socket to the other space on the PCB.
 
 The surface mount footprint is for a 100nF capacitor if you feel the need.
 
-Though untested, the opposite of installing an AT connector for a PS2 keyboard with this adapter should also be possoble where room exists on the motherboard.
+Though untested, the opposite of installing an AT connector for a PS2 keyboard with this adapter should also be possible where room exists on the motherboard.
 
 ![PS2AT PCB](PS2AT.png)
 
