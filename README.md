@@ -11,4 +11,4 @@ Though untested, the opposite of installing an AT connector for a PS2 keyboard w
 
 ![PS2AT PCB](PS2AT.png)
 
-NB: cut the pins going up from the AT motherboard to the adapter board flush at the top and ENSURE THAT NOTHING SHORTS OUT on the shielding of the PS2 connector.
+NB: cut the pins going up from the AT motherboard to the adapter board flush at the top and ENSURE THAT NOTHING SHORTS OUT on the shielding of the PS2 connector. Also cut the pins for the PS2 connector flush at the bottom to give good clearance.
